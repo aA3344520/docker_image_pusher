@@ -8,6 +8,3 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 DockerHub
-gcr.io
-k8s.io
-ghcr.io
